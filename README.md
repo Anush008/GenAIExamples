@@ -66,6 +66,15 @@ All the examples are well-validated on Intel platforms. In addition, these examp
 			<td>Gaudi2</td>
 			<td>Chatbot</td>
 		</tr>
+		<tr>
+			<td><a href="https://www.langchain.com">LangChain</a></td>
+			<td><a href="mistralai/Mistral-7B-Instruct-v0.2">Mistral-7B</a></td>
+			<td><a href="https://huggingface.co/BAAI/bge-small-en-v1.5">BGE-Small-EN-v1.5</a></td>
+			<td><a href="https://qdrant.tech/">Qdrant</a></td>
+			<td>-</td>
+			<td>-</td>
+			<td>Chatbot</td>
+		</tr>
 	</tbody>
 </table>
 
